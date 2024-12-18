@@ -24,15 +24,23 @@ Simulace is an AI-powered platform that prepares lawyers for negotiations by sim
 - **Negotiation Practice**: Lawyers engage in live back-and-forth interactions, encountering counteroffers, challenges, and alternative strategies that mirror real-world negotiations.  
 
 
-## Get Started
-Clone the Repository: Clone the project.
-Install Dependencies: Run pip install -r requirements.txt.
-Set API Keys: Add OpenAI and Pinecone API keys to the .env file.
-Run Backend: Execute python server.py in the root directory.
-Start Frontend: Go to the UI/specter folder and run npm run dev.
+## **Get Started**  
+**Clone the Repository**: Clone the project.  
 
-## Credits
-Frontend inspired by Harvey.ai
-Voice capabilities powered by OpenAI GPT-4
-Hosted via Outspeed
-Special thanks to Cursor for support
+**Install Dependencies**: Run `pip install -r requirements.txt`.  
+
+**Set API Keys**: Add OpenAI and Pinecone API keys to the `.env` file.  
+
+**Run Backend**: Execute `python server.py` in the root directory.  
+
+**Start Frontend**: Go to the `UI/specter` folder and run `npm run dev`.  
+
+## **Credits**  
+**Frontend**: Inspired by Harvey.ai  
+
+**Voice Capabilities**: Powered by OpenAI GPT-4  
+
+**Hosting**: Provided via Outspeed  
+
+**Acknowledgments**: Special thanks to Cursor for support  
+
