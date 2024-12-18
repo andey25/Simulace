@@ -10,16 +10,16 @@ Simulace is an AI-powered platform that prepares lawyers for negotiations by sim
 - Simulace leverages a **contextual summarization** technique inspired by Anthropic to efficiently extract legal strategies, outcomes, and precedents.  
 - All information is stored in a **Pinecone vector database** for fast and accurate retrieval.  
 
-## **Simulation Infrastructure**  
+## **Simulation**  
 - **Agent Dynamics**: Two agents simulate the negotiation process, with each representing one party (e.g., Company A and Company B).  
 - **Parallel Simulations**: The platform runs 100 negotiation pathways simultaneously, testing different approaches and responses.  
 - **Outcome Analysis**: Each path is evaluated to identify risks, successful strategies, and optimal outcomes for preparation.  
 
-## **Intelligent AI Persona Creation**  
+## **AI Persona**  
 - **Persona Development**: The insights from the simulations are synthesized into a highly skilled AI persona that mimics an experienced opposing counsel.  
 - **Adaptive Behavior**: The persona adjusts its responses dynamically to match the user’s negotiation style, providing realistic, challenging practice.  
 
-## **Voice Bot Integration**  
+## **Voice Bot**  
 - **Realistic Conversations**: The AI persona is connected to the GPT-4 voice interface, enabling natural, spoken negotiations.  
 - **Negotiation Practice**: Lawyers engage in live back-and-forth interactions, encountering counteroffers, challenges, and alternative strategies that mirror real-world negotiations.  
 
