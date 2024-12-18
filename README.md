@@ -33,7 +33,7 @@ Simulace is an AI-powered platform that prepares lawyers for negotiations by sim
 
 **Run Backend**: Execute `python server.py` in the root directory.  
 
-**Start Frontend**: Go to the `UI/specter` folder and run `npm run dev`.  
+**Start Frontend**: Go to the `UI/simulace` folder and run `npm run dev`.  
 
 ## **Credits**  
 **Frontend**: Inspired by Harvey.ai  
